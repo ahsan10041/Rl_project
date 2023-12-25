@@ -5,7 +5,6 @@
 ## About
 **Ultimate Volleyball** is a multi-agent reinforcement learning environment built on [Unity ML-Agents](https://unity.com/products/machine-learning-agents).
 
-See ['Ultimate Volleyball Micro-Machine Learning Course'](https://joooyz.gumroad.com/l/ultimate-volleyball) for an updated step-by-step micro-course. 
 
 > **Version:** Up-to-date with ML-Agents Release 19
  
